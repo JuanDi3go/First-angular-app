@@ -11,9 +11,4 @@ import { RouterOutlet } from '@angular/router';
 
 export class App {
   protected title = 'Mi primera aplicación Angular';
-  protected tasks = [
-   'Create un proyecto Angular',
-    'Crear un componente',
-    'Actualización de la vista',
-  ];
 }
